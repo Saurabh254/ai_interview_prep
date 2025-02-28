@@ -41,7 +41,7 @@ ollama pull llama3.2
 
 ```bash
 # Basic usage
-uv python interviewer.py
+uv python interview_prep.py
 
 ```
 
